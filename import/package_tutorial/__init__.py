@@ -1,2 +1,2 @@
-import package_tutorial.add
-import package_tutorial.sub
+from .add import add_op
+from .sub import sub_op
